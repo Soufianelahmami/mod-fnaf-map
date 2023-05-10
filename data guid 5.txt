@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Advance pack 1r","desc":"The Five Nights at Freddy's (FNAF) franchise has captivated gamers worldwide with its unique blend of horror and suspense. The series revolves around a night guard tasked with surviving against animatronic characters that come to life in a haunted pizza restaurant. ","photo":"https://iili.io/HUncfVf.webp"},
+  {"title":"tips mod 2","desc":"While the original game and its sequels provided thrilling experiences, the modding community has taken FNAF to new heights. One particular aspect that has gained significant attention is the modded FNAF map. In this article,","photo":"https://iili.io/HUncqP4.jpg"},
+  {"title":"how to use this app 3","desc":"we will delve into the fascinating world of modded FNAF maps, exploring their creation process, features, and the impact they have had on the FNAF community.","photo":"https://iili.io/HUncdAX.jpg"},
+  {"title":"advice pack 4","desc":"Before diving into the specifics of modded FNAF maps, it is essential to understand the concept of modding itself. Modding refers to the act of modifying or altering a game's content,","photo":"https://iili.io/HUnc2Nn.jpg"},
+  {"title":"helper mod 5","desc":" typically performed by passionate fans using game development tools and software. Modding allows enthusiasts to unleash their creativity and bring new elements into established games, thus enhancing the overall gameplay experience.","photo":"https://iili.io/HUncnl2.jpg"},
+  {"title":"tips pack 6","desc":"Modded FNAF maps offer an array of advantages that entice players and creators alike. Firstly, they allow for the expansion of the original game's content. With modded maps,","photo":"https://iili.io/HUncoSS.webp"},
+  {"title":"advance mod 7","desc":"players can explore new locations, encounter different challenges, and uncover fresh narratives within the FNAF universe. ","photo":"https://iili.io/HUnczH7.jpg"},
+  {"title":"how to use this app 8","desc":" These maps inject novelty into the game, reinvigorating players who may have already exhausted the original content.","photo":"https://iili.io/HUncIR9.jpg"}
    ]
  
 }
