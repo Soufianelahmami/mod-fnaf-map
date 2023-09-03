@@ -17,35 +17,57 @@
 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 "admob_native":"ca-app-pub-3940256099942544/2247696110",
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-2406546-1",
-"yandex_inter":"R-M-2406546-3",
-"yandex_native":"R-M-2406546-2",
-"yandex_reward":"R-M-2406546-4",
+
+
+"yandex_banner":"R-M-2745979-1",
+"yandex_inter":"R-M-2745979-5",
+"yandex_native":"R-M-2745979-3",
+"yandex_reward":"R-M-2745979-2",
 
 
 
-"start_vpn":"no",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
-  
-  
+
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"",
+
+"start_vpn":"yes",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
+
+
+
 
 },
- 
+
  "my_data":[
-  {"title":"Advance pack 1r","desc":"The Five Nights at Freddy's (FNAF) franchise has captivated gamers worldwide with its unique blend of horror and suspense. The series revolves around a night guard tasked with surviving against animatronic characters that come to life in a haunted pizza restaurant. ","photo":"https://iili.io/HUncfVf.webp"},
-  {"title":"tips mod 2","desc":"While the original game and its sequels provided thrilling experiences, the modding community has taken FNAF to new heights. One particular aspect that has gained significant attention is the modded FNAF map. In this article,","photo":"https://iili.io/HUncqP4.jpg"},
-  {"title":"how to use this app 3","desc":"we will delve into the fascinating world of modded FNAF maps, exploring their creation process, features, and the impact they have had on the FNAF community.","photo":"https://iili.io/HUncdAX.jpg"},
-  {"title":"advice pack 4","desc":"Before diving into the specifics of modded FNAF maps, it is essential to understand the concept of modding itself. Modding refers to the act of modifying or altering a game's content,","photo":"https://iili.io/HUnc2Nn.jpg"},
-  {"title":"helper mod 5","desc":" typically performed by passionate fans using game development tools and software. Modding allows enthusiasts to unleash their creativity and bring new elements into established games, thus enhancing the overall gameplay experience.","photo":"https://iili.io/HUncnl2.jpg"},
-  {"title":"tips pack 6","desc":"Modded FNAF maps offer an array of advantages that entice players and creators alike. Firstly, they allow for the expansion of the original game's content. With modded maps,","photo":"https://iili.io/HUncoSS.webp"},
-  {"title":"advance mod 7","desc":"players can explore new locations, encounter different challenges, and uncover fresh narratives within the FNAF universe. ","photo":"https://iili.io/HUnczH7.jpg"},
-  {"title":"how to use this app 8","desc":" These maps inject novelty into the game, reinvigorating players who may have already exhausted the original content.","photo":"https://iili.io/HUncIR9.jpg"}
+  {"title":"standoff-v2-10.0- 1",
+"desc":"Continual Innovation: Each iteration of the Standoff series has brought forth advancements that reflect both the demands of the gaming community and the developer's dedication to pushing the boundaries of the genre.",
+"photo":"https://iili.io/Hyh8qhX.jpg"},
+  {"title":"standoff-v2-10.0- 2",
+"desc":"A Legacy of Excellence: Standoff has garnered a dedicated fanbase over the years, thanks to its balanced gameplay, tactical depth, and commitment to providing an immersive FPS experience.",
+"photo":"https://iili.io/Hyh8nBs.png"},
+  {"title":"standoff-v2-10.0- 3",
+"desc":"A well-balanced arsenal is crucial in any FPS game, and Standoff 2 is no exception. The update fine-tunes weapon statistics and recoil patterns, ensuring that no single weapon dominates the battlefield. This promotes strategic diversity and encourages players to experiment with different loadouts.",
+"photo":"https://iili.io/Hyh8FpI.jpg"},
+  {"title":"standoff-v2-10.0- 4",
+"desc":"Version 10.0 introduces exciting new game modes that add variety and replayability to Standoff 2. Whether you're in the mood for classic team deathmatches or more objective-based gameplay, there's a mode to suit your preferences.",
+"photo":"https://iili.io/Hyh8fIt.jpg"},
+  {"title":"standoff-v2-10.0- 5",
+"desc":"The update brings refinements to the matchmaking system, ensuring that players are matched with others of similar skill levels. This fosters fair and competitive matches, enhancing the overall gaming experience.",
+"photo":"https://iili.io/Hyh8BQn.jpg"},
+  {"title":"standoff-v2-10.0- 6",
+"desc":"Standoff 2 has been steadily making a name for itself in the esports arena, and Version 10.0 reinforces this commitment. The update includes features that make it easier for players to engage with the esports scene, such as improved spectator modes and tournament integration.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff-v2-10.0- 7",
+"desc":"One of the strengths of Standoff 2 has been its responsiveness to player feedback. Version 10.0 continues this tradition, addressing player concerns and suggestions, further solidifying the bond between the development team and the player community.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff-v2-10.0- 8",
+"desc":"Standoff 2 Version 10.0 represents a significant milestone in the game's evolution. With its enhanced graphics, new maps, refined gameplay mechanics, and improved matchmaking, it offers both veteran players and newcomers a reason to dive back into the world of tactical mobile gaming.",
+"photo":"https://iili.io/Hyh8x4f.jpg"}
    ]
- 
+
 }
-   
