@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
 
-"yandex_banner":"R-M-2745979-1",
-"yandex_inter":"R-M-2745979-5",
-"yandex_native":"R-M-2745979-3",
-"yandex_reward":"R-M-2745979-2",
+"yandex_banner":"R-M-2830366-1",
+"yandex_inter":"R-M-2830366-3",
+"yandex_native":"R-M-2830366-2",
+"yandex_reward":"R-M-2830366-4",
 
 
 
@@ -32,11 +32,11 @@
 "vungle_banner":"DEFAULTBANNER-5844358",
 "vungle_reward":"",
 
-"start_vpn":"yes",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"start_vpn":"no",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
 
 
 
@@ -44,29 +44,29 @@
 },
 
  "my_data":[
-  {"title":"standoff-v2-10.0- 1",
-"desc":"Continual Innovation: Each iteration of the Standoff series has brought forth advancements that reflect both the demands of the gaming community and the developer's dedication to pushing the boundaries of the genre.",
+  {"title":"FNAF MOD PACK 1",
+"desc":"Before we delve into its presence in Garry's Mod, let's briefly revisit the world of Five Nights at Freddy's. FNAF is a horror game series known for its eerie atmosphere and jump-scare-filled gameplay. In the game, players take on the role of a security guard working the night shift at a haunted pizzeria. The animatronic characters that entertain children during the day come to life at night, and the player must survive several nights while avoiding these murderous machines.",
 "photo":"https://iili.io/Hyh8qhX.jpg"},
-  {"title":"standoff-v2-10.0- 2",
-"desc":"A Legacy of Excellence: Standoff has garnered a dedicated fanbase over the years, thanks to its balanced gameplay, tactical depth, and commitment to providing an immersive FPS experience.",
+  {"title":"FNAF MOD PACK 2",
+"desc":"The FNAF franchise has captivated gamers worldwide with its unique blend of horror and mystery. Its success has led to the creation of multiple sequels, spin-offs, merchandise, and a dedicated fan base eager to explore the terrifying lore of the series.",
 "photo":"https://iili.io/Hyh8nBs.png"},
-  {"title":"standoff-v2-10.0- 3",
-"desc":"A well-balanced arsenal is crucial in any FPS game, and Standoff 2 is no exception. The update fine-tunes weapon statistics and recoil patterns, ensuring that no single weapon dominates the battlefield. This promotes strategic diversity and encourages players to experiment with different loadouts.",
+  {"title":"FNAF MOD PACK 3",
+"desc":"The fusion of FNAF and GMod was a natural progression, given GMod's open-ended nature and vast modding community. GMod allows players to create their own game modes, maps, and character models, making it a perfect canvas for FNAF enthusiasts to recreate the series' chilling ambiance and iconic animatronics.",
 "photo":"https://iili.io/Hyh8FpI.jpg"},
-  {"title":"standoff-v2-10.0- 4",
-"desc":"Version 10.0 introduces exciting new game modes that add variety and replayability to Standoff 2. Whether you're in the mood for classic team deathmatches or more objective-based gameplay, there's a mode to suit your preferences.",
+  {"title":"FNAF MOD PACK 4",
+"desc":"Custom Maps and Environments: GMod's modding community has developed numerous custom FNAF-themed maps and environments. These maps faithfully recreate the eerie atmosphere of Freddy Fazbear's Pizza, complete with dimly lit corridors, surveillance cameras, and even creepy background music.",
 "photo":"https://iili.io/Hyh8fIt.jpg"},
-  {"title":"standoff-v2-10.0- 5",
+  {"title":"FNAF MOD PACK 5",
 "desc":"The update brings refinements to the matchmaking system, ensuring that players are matched with others of similar skill levels. This fosters fair and competitive matches, enhancing the overall gaming experience.",
 "photo":"https://iili.io/Hyh8BQn.jpg"},
-  {"title":"standoff-v2-10.0- 6",
-"desc":"Standoff 2 has been steadily making a name for itself in the esports arena, and Version 10.0 reinforces this commitment. The update includes features that make it easier for players to engage with the esports scene, such as improved spectator modes and tournament integration.",
+  {"title":"FNAF MOD PACK  6",
+"desc":"Playable Animatronics: One of the most exciting aspects of FNAF in GMod is the ability to become one of the animatronics. Through character models and scripting, players can take control of Freddy Fazbear, Bonnie the Bunny, Chica the Chicken, Foxy the Pirate, and other characters. This adds a unique twist to the gameplay, allowing players to experience the terror from the animatronics' perspective.",
 "photo":"https://iili.io/Hyh8oEG.jpg"},
-  {"title":"standoff-v2-10.0- 7",
+  {"title":"FNAF MOD PACK  7",
 "desc":"One of the strengths of Standoff 2 has been its responsiveness to player feedback. Version 10.0 continues this tradition, addressing player concerns and suggestions, further solidifying the bond between the development team and the player community.",
 "photo":"https://iili.io/Hyh8oEG.jpg"},
-  {"title":"standoff-v2-10.0- 8",
-"desc":"Standoff 2 Version 10.0 represents a significant milestone in the game's evolution. With its enhanced graphics, new maps, refined gameplay mechanics, and improved matchmaking, it offers both veteran players and newcomers a reason to dive back into the world of tactical mobile gaming.",
+  {"title":"FNAF MOD PACK 8",
+"desc":"The marriage of Five Nights at Freddy's and Garry's Mod has produced a rich and immersive gaming experience for fans of both franchises. It showcases the incredible potential of user-generated content and modding communities to breathe new life into beloved games. Whether you're a seasoned FNAF aficionado or a curious GMod player, exploring the world of FNAF in Garry's Mod is a spine-tingling adventure waiting to happen..",
 "photo":"https://iili.io/Hyh8x4f.jpg"}
    ]
 
